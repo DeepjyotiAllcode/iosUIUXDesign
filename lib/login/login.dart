@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(20, 10, 20, 0),
           child: ListView(
             children: [
-              const SizedBox(height: 20), 
+              const SizedBox(height: 20),
               const SizedBox(height: 200),
               const Text(
                 'Login',
